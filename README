@@ -1,0 +1,17 @@
+ScrAPI-Fox
+
+= ABOUT
+
+A Reviews' scraper for Mozilla Firefox Addons written in PHP. ScrAPI retrieves the number of users, the number of reviews and the total number of characters contained by all the reviews of an addon. It computes the probability to get a review for the addon (i.e. ratio #reviews / #users) and the average size of a review (i.e. #characters / #reviews).
+
+= ID
+
+Author: Florian Bersier (xpressyoo)
+Date:   September 2011
+URL:    https://github.com/xpressyoo/ScrAPI
+
+= License
+
+ScrAPI-Fox is licensed under the Creative Commons Attribution 2.0 UK: England & Wales License. To view a copy of this license, visit http://creativecommons.org/licenses/by/2.0/uk/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+
